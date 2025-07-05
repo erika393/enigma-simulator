@@ -160,7 +160,7 @@ function App() {
               </div>
             </div>
           </div>
-          <div className="col-12 col-lg-2 m-auto">
+          <div className="col-12 col-lg-2 mt-3 mt-lg-auto m-auto">
             <div>
               <Rotors
                 offsetsRotors={(off1, off2, off3) =>
